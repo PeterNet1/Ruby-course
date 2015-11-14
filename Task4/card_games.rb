@@ -113,7 +113,6 @@ class Deck
 end
 
 class WarDeck < Deck
-
   private
 
   class WarHand < WarDeck
